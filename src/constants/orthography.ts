@@ -31,6 +31,7 @@ export const ORTHOGRAPHY = [
   'ū',
   'v',
   'y',
+  'z',
 ]
 
 if (CONFIG.normalization) {
