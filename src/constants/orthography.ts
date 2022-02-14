@@ -5,6 +5,7 @@ export const ORTHOGRAPHY = [
   'à',
   'ā',
   'b',
+  'c',
   'd',
   'e',
   'è',
